@@ -1,0 +1,21 @@
+.alert-search{
+	display: block;
+	background-color: red;
+	padding: 10px 20px;
+	font-weight: bold;
+	font-size: 1rem;
+	color: #FFF;
+}
+.alert-search p{color: #FFF !important;}
+
+.search-by-david input[type="search"]{
+	box-sizing: border-box;
+	box-sizing: -webkit-border-box;
+	box-sizing: -moz-border-box;
+	background-color: #F2f2f2;
+	border: 3px solid #ccc;
+	outline: 0;
+	padding: 10px 15px;
+	color: #202020;
+	width: 100%;
+}
