@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Search by David
-Plugin URI: http://davidgaitan.com
+Plugin URI: http://davidgaitan.com/search-by-david
 Description: A simple search that help to search by tags or categories
 Author: David Gaitan
 Author URI: http://davidgaitan.com
